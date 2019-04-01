@@ -1,0 +1,225 @@
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.deps.json
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.runtimeconfig.json
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.runtimeconfig.dev.json
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csprojAssemblyReference.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csproj.CoreCompileInputs.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorAssemblyInfo.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorAssemblyInfo.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.AssemblyInfoInputs.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.AssemblyInfo.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.TagHelpers.input.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.TagHelpers.output.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorCoreGenerate.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorTargetAssemblyInfo.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorTargetAssemblyInfo.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/BL.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/DAL.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/Domain.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/BL.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/Domain.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/bin/Debug/netcoreapp2.1/DAL.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.Views.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csproj.CopyComplete
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/AccessDenied.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ConfirmEmail.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Lockout.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Logout.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Index.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPassword.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Error.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeasTest/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Project.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.deps.json
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.runtimeconfig.json
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.runtimeconfig.dev.json
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/BL.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/DAL.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/Domain.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/BL.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/Domain.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/DAL.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csprojAssemblyReference.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csproj.CoreCompileInputs.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorAssemblyInfo.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorAssemblyInfo.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.AssemblyInfoInputs.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.AssemblyInfo.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.TagHelpers.input.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.TagHelpers.output.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorCoreGenerate.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/AccessDenied.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ConfirmEmail.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Lockout.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Logout.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Index.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPassword.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Error.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorTargetAssemblyInfo.cache
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorTargetAssemblyInfo.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.Views.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csproj.CopyComplete
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.dll
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.pdb
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Project.g.cshtml.cs
+C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.deps.json
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.runtimeconfig.json
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.runtimeconfig.dev.json
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.dll
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.pdb
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.dll
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.pdb
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/BL.dll
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/DAL.dll
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/Domain.dll
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/BL.pdb
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/Domain.pdb
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/bin/Debug/netcoreapp2.1/DAL.pdb
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csprojAssemblyReference.cache
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csproj.CoreCompileInputs.cache
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorAssemblyInfo.cache
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorAssemblyInfo.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.AssemblyInfoInputs.cache
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.AssemblyInfo.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.TagHelpers.input.cache
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.TagHelpers.output.cache
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorCoreGenerate.cache
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/AccessDenied.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ConfirmEmail.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Lockout.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Logout.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Index.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPassword.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Error.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Project.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorTargetAssemblyInfo.cache
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.RazorTargetAssemblyInfo.cs
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.Views.pdb
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csproj.CopyComplete
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.dll
+/home/tmach/Documents/school/ip/CityOfIdeas/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.pdb
