@@ -11,7 +11,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using Domain;
-using Domain.User;
 
 namespace UI_MVC.Areas.Identity.Pages.Account.Manage
 {

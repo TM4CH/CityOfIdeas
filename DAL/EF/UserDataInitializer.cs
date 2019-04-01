@@ -1,7 +1,6 @@
 ﻿using Domain;
 using Microsoft.AspNetCore.Identity;
 using System.Globalization;
-using Domain.User;
 
 namespace DAL.EF
 {

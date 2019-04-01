@@ -6,8 +6,14 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="BL" t="IncludeRecursive">
         <e p="BL.csproj" t="IncludeRecursive" />
-        <e p="IProjectManager.cs" t="Include" />
-        <e p="ProjectManager.cs" t="Include" />
+        <e p="InterfaceManagers" t="Include">
+          <e p="IPlatformManagers" t="Include">
+            <e p="IPlatformManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Managers" t="Include">
+          <e p="PlatformManager.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -23,54 +29,60 @@
         <e p="DAL.csproj.DotSettings" t="Include" />
         <e p="EF" t="Include">
           <e p="ApplicationDbContext.cs" t="Include" />
-          <e p="CommentRepository.cs" t="Include" />
-          <e p="ProjectRepository.cs" t="Include" />
+          <e p="InterfaceRepositories" t="Include">
+            <e p="IPlatformRepository" t="Include">
+              <e p="IPlatformRepository.cs" t="Include" />
+            </e>
+            <e p="IProject" t="Include">
+              <e p="IIdeation" t="Include">
+                <e p="ICommentRepository.cs" t="Include" />
+                <e p="IIdeaRepository.cs" t="Include" />
+                <e p="IIdeationRepository.cs" t="Include" />
+                <e p="IPropertyEnabledRepository.cs" t="Include" />
+                <e p="ITagRepository.cs" t="Include" />
+              </e>
+              <e p="IPhase" t="Include">
+                <e p="IPhaseIdeationRepository.cs" t="Include" />
+                <e p="IPhaseRepository.cs" t="Include" />
+                <e p="IPhaseSurveyRepository.cs" t="Include" />
+              </e>
+              <e p="IProjectRepository.cs" t="Include" />
+              <e p="ISurvey" t="Include">
+                <e p="IAnswer" t="Include">
+                  <e p="IAnswerRepository.cs" t="Include" />
+                  <e p="IChoiceAnswerRepository.cs" t="Include" />
+                  <e p="IMultipleChoiceAnswerRepository.cs" t="Include" />
+                  <e p="IQuestionAnswerRepository.cs" t="Include" />
+                </e>
+                <e p="IQuestion" t="Include">
+                  <e p="IChoiceRepository.cs" t="Include" />
+                  <e p="IMultipleChoiceQuestionRepository.cs" t="Include" />
+                  <e p="IQuestionRepository.cs" t="Include" />
+                </e>
+                <e p="ISurveyRepository.cs" t="Include" />
+              </e>
+            </e>
+            <e p="IUser" t="Include">
+              <e p="IRoleRepository.cs" t="Include" />
+              <e p="IUserRepository.cs" t="Include" />
+            </e>
+            <e p="IVote" t="Include">
+              <e p="IVoteIdeationRepository.cs" t="Include" />
+              <e p="IVoteProjectRepository.cs" t="Include" />
+              <e p="IVoteRepository.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="PlatformRepositories" t="Include">
+              <e p="PlatformRepository.cs" t="Include" />
+            </e>
+            <e p="ProjectRepositories" t="Include" />
+          </e>
           <e p="UserDataInitializer.cs" t="Include" />
         </e>
-        <e p="InterfaceRepositories" t="Include">
-          <e p="IPlatformRepository.cs" t="Include" />
-          <e p="IProject" t="Include">
-            <e p="IIdeation" t="Include">
-              <e p="ICommentRepository.cs" t="Include" />
-              <e p="IIdeaRepository.cs" t="Include" />
-              <e p="IIdeationRepository.cs" t="Include" />
-              <e p="IPropertyEnabledRepository.cs" t="Include" />
-              <e p="ITagRepository.cs" t="Include" />
-            </e>
-            <e p="IPhase" t="Include">
-              <e p="IPhaseIdeationRepository.cs" t="Include" />
-              <e p="IPhaseRepository.cs" t="Include" />
-              <e p="IPhaseSurveyRepository.cs" t="Include" />
-            </e>
-            <e p="IProjectRepository.cs" t="Include" />
-            <e p="ISurvey" t="Include">
-              <e p="IAnswer" t="Include">
-                <e p="IAnswerRepository.cs" t="Include" />
-                <e p="IChoiceAnswerRepository.cs" t="Include" />
-                <e p="IMultipleChoiceAnswerRepository.cs" t="Include" />
-                <e p="IQuestionAnswerRepository.cs" t="Include" />
-              </e>
-              <e p="IQuestion" t="Include">
-                <e p="IChoiceRepository.cs" t="Include" />
-                <e p="IMultipleChoiceQuestionRepository.cs" t="Include" />
-                <e p="IQuestionRepository.cs" t="Include" />
-              </e>
-              <e p="ISurveyRepository.cs" t="Include" />
-            </e>
-          </e>
-          <e p="IUser" t="Include">
-            <e p="IRoleRepository.cs" t="Include" />
-            <e p="IUserRepository.cs" t="Include" />
-          </e>
-          <e p="IVote" t="Include">
-            <e p="IVoteIdeationRepository.cs" t="Include" />
-            <e p="IVoteProjectRepository.cs" t="Include" />
-            <e p="IVoteRepository.cs" t="Include" />
-          </e>
-        </e>
         <e p="Migrations" t="Include">
-          <e p="20190401135250_CityOfIdeas.Designer.cs" t="Include" />
-          <e p="20190401135250_CityOfIdeas.cs" t="Include" />
+          <e p="20190401145832_CityOfIdeas.Designer.cs" t="Include" />
+          <e p="20190401145832_CityOfIdeas.cs" t="Include" />
           <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
@@ -85,9 +97,11 @@
       <e p="Domain" t="IncludeRecursive">
         <e p="Domain.csproj" t="IncludeRecursive" />
         <e p="Domain.csproj.DotSettings" t="Include" />
-        <e p="Platform.cs" t="Include" />
-        <e p="Project" t="Include">
-          <e p="Ideation" t="Include">
+        <e p="PlatformClasses" t="Include">
+          <e p="Platform.cs" t="Include" />
+        </e>
+        <e p="ProjectClasses" t="Include">
+          <e p="IdeationClasses" t="Include">
             <e p="Comment.cs" t="Include" />
             <e p="Idea.cs" t="Include" />
             <e p="Ideation.cs" t="Include" />
@@ -115,12 +129,12 @@
             <e p="Survey.cs" t="Include" />
           </e>
         </e>
-        <e p="User" t="Include">
+        <e p="UserClasses" t="Include">
           <e p="Adress.cs" t="Include" />
           <e p="Role.cs" t="Include" />
           <e p="User.cs" t="Include" />
         </e>
-        <e p="Vote" t="Include">
+        <e p="VoteClasses" t="Include">
           <e p="Vote.cs" t="Include" />
           <e p="VoteIdeation.cs" t="Include" />
           <e p="VoteProject.cs" t="Include" />

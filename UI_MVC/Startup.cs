@@ -13,7 +13,6 @@ using DAL.EF;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Domain;
-using Domain.User;
 
 namespace UI_MVC
 {

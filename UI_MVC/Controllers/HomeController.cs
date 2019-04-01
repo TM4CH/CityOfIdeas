@@ -1,11 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using BL;
+using BL.InterfaceManagers.IPlatformManagers;
+using BL.Managers;
 using DAL.EF;
 using Domain;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using UI_MVC.Models;
 
@@ -13,16 +17,42 @@ namespace UI_MVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly IProjectManager _projectManager;
-        private readonly ApplicationDbContext _context;
+        private readonly IPlatformManager _platformManager;
+        
+        //IS VOOR BACKEND - MOET VERWIJDERD WORDEN BIJ FRONT-END
+        
+        private readonly  UserManager<User> _userManager;
 
-        public HomeController(ApplicationDbContext context)
+        //TOT HIER
+        
+        public HomeController(UserManager<User> userManager)
         {
-            _context = context;
-            _projectManager = new ProjectManager();
+            //IS VOOR BACKEND - MOET VERWIJDERD WORDEN BIJ FRONT-END
+            
+            _platformManager = new PlatformManager();
+            _userManager = userManager;
+            
+            //TOT HIER
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
+            //IS VOOR BACKEND - MOET VERWIJDERD WORDEN BIJ FRONT-END
+            
+                //ADD
+                    //Platform tempPlatform = new Platform(){ Name = "Deurne", Admins = new Collection<User>()
+                    //{
+                        //await _userManager.FindByEmailAsync("admin@localhost")
+                    //}};
+                    //_platformManager.AddPlatform(tempPlatform);
+                //GET
+                    //Console.WriteLine(_platformManager.GetPlatformByName("Hoboken"));
+                //SET
+                    //tempPlatform.Name = "Antwerpen";
+                    //_platformManager.SetPlatform(tempPlatform);
+                //REMOVE
+                
+            
+            //TOT HIER
             return View();
         }
 

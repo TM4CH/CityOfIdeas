@@ -17,6 +17,18 @@ namespace DAL.Migrations
                 .HasAnnotation("ProductVersion", "2.1.8-servicing-32085")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
+            modelBuilder.Entity("Domain.Platform", b =>
+                {
+                    b.Property<string>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("Name");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Platforms");
+                });
+
             modelBuilder.Entity("Domain.Project.Answer.Answer", b =>
                 {
                     b.Property<string>("Id")
@@ -56,7 +68,7 @@ namespace DAL.Migrations
 
                     b.HasIndex("MultipleChoiceAnswerId");
 
-                    b.ToTable("ChoiceAnswer");
+                    b.ToTable("ChoiceAnswers");
                 });
 
             modelBuilder.Entity("Domain.Project.Choice", b =>
@@ -73,7 +85,7 @@ namespace DAL.Migrations
 
                     b.HasIndex("MultipleChoiceQuestionId");
 
-                    b.ToTable("Choice");
+                    b.ToTable("Choices");
                 });
 
             modelBuilder.Entity("Domain.Project.Comment", b =>
@@ -156,7 +168,7 @@ namespace DAL.Migrations
                     b.ToTable("Ideations");
                 });
 
-            modelBuilder.Entity("Domain.Project.Phase", b =>
+            modelBuilder.Entity("Domain.Project.Phase.Phase", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd();
@@ -190,6 +202,9 @@ namespace DAL.Migrations
                     b.Property<string>("Location")
                         .IsRequired();
 
+                    b.Property<string>("PlatformId")
+                        .IsRequired();
+
                     b.Property<DateTime>("StartDate");
 
                     b.Property<string>("Title")
@@ -199,6 +214,8 @@ namespace DAL.Migrations
                         .IsRequired();
 
                     b.HasKey("Id");
+
+                    b.HasIndex("PlatformId");
 
                     b.HasIndex("UserId");
 
@@ -221,7 +238,7 @@ namespace DAL.Migrations
 
                     b.HasIndex("IdeationId");
 
-                    b.ToTable("PropertyEnabled");
+                    b.ToTable("PropertiesEnabled");
                 });
 
             modelBuilder.Entity("Domain.Project.Question", b =>
@@ -280,7 +297,25 @@ namespace DAL.Migrations
 
                     b.HasIndex("IdeaId");
 
-                    b.ToTable("Tag");
+                    b.ToTable("Tags");
+                });
+
+            modelBuilder.Entity("Domain.User.Adress", b =>
+                {
+                    b.Property<string>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("City");
+
+                    b.Property<string>("HouseNumber");
+
+                    b.Property<string>("Street");
+
+                    b.Property<string>("Zipcode");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Adress");
                 });
 
             modelBuilder.Entity("Domain.Vote.Vote", b =>
@@ -551,6 +586,15 @@ namespace DAL.Migrations
                 {
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
 
+                    b.Property<string>("AdressId");
+
+                    b.Property<DateTime>("Birthdate");
+
+                    b.Property<string>("PlatformId");
+
+                    b.HasIndex("AdressId");
+
+                    b.HasIndex("PlatformId");
 
                     b.ToTable("User");
 
@@ -611,7 +655,7 @@ namespace DAL.Migrations
 
             modelBuilder.Entity("Domain.Project.Ideation", b =>
                 {
-                    b.HasOne("Domain.Project.Phase", "Phase")
+                    b.HasOne("Domain.Project.Phase.Phase", "Phase")
                         .WithMany()
                         .HasForeignKey("PhaseId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -621,7 +665,7 @@ namespace DAL.Migrations
                         .HasForeignKey("UserId");
                 });
 
-            modelBuilder.Entity("Domain.Project.Phase", b =>
+            modelBuilder.Entity("Domain.Project.Phase.Phase", b =>
                 {
                     b.HasOne("Domain.Project.Project", "Project")
                         .WithMany("Phases")
@@ -631,6 +675,11 @@ namespace DAL.Migrations
 
             modelBuilder.Entity("Domain.Project.Project", b =>
                 {
+                    b.HasOne("Domain.Platform", "Platform")
+                        .WithMany()
+                        .HasForeignKey("PlatformId")
+                        .OnDelete(DeleteBehavior.Cascade);
+
                     b.HasOne("Domain.User.User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
@@ -653,7 +702,7 @@ namespace DAL.Migrations
 
             modelBuilder.Entity("Domain.Project.Survey", b =>
                 {
-                    b.HasOne("Domain.Project.Phase", "Phase")
+                    b.HasOne("Domain.Project.Phase.Phase", "Phase")
                         .WithMany()
                         .HasForeignKey("PhaseId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -742,6 +791,17 @@ namespace DAL.Migrations
                         .WithMany()
                         .HasForeignKey("ProjectId")
                         .OnDelete(DeleteBehavior.Cascade);
+                });
+
+            modelBuilder.Entity("Domain.User.User", b =>
+                {
+                    b.HasOne("Domain.User.Adress", "Adress")
+                        .WithMany()
+                        .HasForeignKey("AdressId");
+
+                    b.HasOne("Domain.Platform")
+                        .WithMany("Admin")
+                        .HasForeignKey("PlatformId");
                 });
 #pragma warning restore 612, 618
         }
