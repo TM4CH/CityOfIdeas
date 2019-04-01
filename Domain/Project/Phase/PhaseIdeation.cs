@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Domain.Project
+namespace Domain.Project.Phase
 {
     public class PhaseIdeation : Phase
     {

@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Domain.Project;
+using Domain.Project.Phase;
 
 namespace DAL.IProject.IPhase
 {

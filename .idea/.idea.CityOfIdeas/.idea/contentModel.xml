@@ -28,6 +28,7 @@
           <e p="UserDataInitializer.cs" t="Include" />
         </e>
         <e p="InterfaceRepositories" t="Include">
+          <e p="IPlatformRepository.cs" t="Include" />
           <e p="IProject" t="Include">
             <e p="IIdeation" t="Include">
               <e p="ICommentRepository.cs" t="Include" />
@@ -68,8 +69,8 @@
           </e>
         </e>
         <e p="Migrations" t="Include">
-          <e p="20190330181128_CityOfIdeas.Designer.cs" t="Include" />
-          <e p="20190330181128_CityOfIdeas.cs" t="Include" />
+          <e p="20190401135250_CityOfIdeas.Designer.cs" t="Include" />
+          <e p="20190401135250_CityOfIdeas.cs" t="Include" />
           <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
@@ -84,6 +85,7 @@
       <e p="Domain" t="IncludeRecursive">
         <e p="Domain.csproj" t="IncludeRecursive" />
         <e p="Domain.csproj.DotSettings" t="Include" />
+        <e p="Platform.cs" t="Include" />
         <e p="Project" t="Include">
           <e p="Ideation" t="Include">
             <e p="Comment.cs" t="Include" />
@@ -114,6 +116,7 @@
           </e>
         </e>
         <e p="User" t="Include">
+          <e p="Adress.cs" t="Include" />
           <e p="Role.cs" t="Include" />
           <e p="User.cs" t="Include" />
         </e>

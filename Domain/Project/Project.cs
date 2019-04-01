@@ -18,8 +18,9 @@ namespace Domain.Project
         public DateTime StartDate { get; set; }
         [Required]
         public DateTime EndDate { get; set; }
-        public virtual ICollection<Phase> Phases { get; set; }
+        public virtual ICollection<Phase.Phase> Phases { get; set; }
         [Required]
         public virtual User.User User { get; set; }
+        [Required] public virtual Platform Platform { get; set; }
     }
 }
