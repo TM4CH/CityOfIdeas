@@ -30,3 +30,13 @@ C:/Users/MelioJuan/Google Drive/KDG2/IntegratieProject/Test/CityOfIdeasTest3/Cit
 /home/tmach/Documents/school/ip/CityOfIdeas/Domain/obj/Debug/netcoreapp2.1/Domain.AssemblyInfo.cs
 /home/tmach/Documents/school/ip/CityOfIdeas/Domain/obj/Debug/netcoreapp2.1/Domain.dll
 /home/tmach/Documents/school/ip/CityOfIdeas/Domain/obj/Debug/netcoreapp2.1/Domain.pdb
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\bin\Debug\netcoreapp2.1\Domain.runtimeconfig.json
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\bin\Debug\netcoreapp2.1\Domain.runtimeconfig.dev.json
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
