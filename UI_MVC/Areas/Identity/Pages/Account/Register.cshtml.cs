@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Net.Mail;
 using System.Text;
 using System.Text.Encodings.Web;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Domain;
 using Domain.UserClasses;
@@ -84,20 +85,48 @@ namespace UI_MVC.Areas.Identity.Pages.Account
         public async Task<IActionResult> OnPostAsync(string returnUrl = null)
         {
             returnUrl = returnUrl ?? Url.Content("~/");
+            if (Input.Email.IndexOf('@') > -1)
+            {
+                //Validate email format
+                string emailRegex = @"^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}" +
+                                       @"\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\" +
+                                          @".)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$";
+                Regex re = new Regex(emailRegex);
+                if (!re.IsMatch(Input.Email))
+                {
+                    ModelState.AddModelError("Email", "Email is not valid");
+                }
+            }
+            else
+            {
+                //validate Username format
+                string emailRegex = @"^[a-zA-Z0-9]*$";
+                Regex re = new Regex(emailRegex);
+                if (!re.IsMatch(Input.Email))
+                {
+                    ModelState.AddModelError("Email", "Username is not valid");
+                }
+            }
             if (ModelState.IsValid)
             {
                 var user = new User { UserName = Input.UserName, Email = Input.Email, Adress = new Adress() { Street = Input.Street, City = Input.City, HouseNumber = Input.HouseNumber, Zipcode = Input.Zipcode } };
 
-                var usercheck = await _userManager.FindByEmailAsync(Input.Email);
+                var useremailcheck = await _userManager.FindByEmailAsync(Input.Email);
+                var usernamecheck = await _userManager.FindByNameAsync(Input.UserName);
 
-                var checkemail = true;
-                if (usercheck != null)
+                var resultcheck = true;
+                if (usernamecheck != null)
+                {
+                    ModelState.AddModelError(string.Empty, "Username is already used.");
+                    resultcheck = false;
+                }
+                if (useremailcheck != null)
                 {
                     ModelState.AddModelError(string.Empty, "Email is already used.");
-                    checkemail = false;
+                    resultcheck = false;
                 }
 
-                if (checkemail)
+                if (resultcheck)
                 {
                     var result = await _userManager.CreateAsync(user, Input.Password);
                     if (result.Succeeded)

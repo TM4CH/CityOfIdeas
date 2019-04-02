@@ -125,30 +125,34 @@ namespace UI_MVC.Areas.Identity.Pages.Account
                 var usernamecheck = await _userManager.FindByNameAsync(Input.Username);
 
                 var resultcheck = true;
-
-                if(useremailcheck != null || usernamecheck != null)
+                if(usernamecheck != null)
+                {
+                    ModelState.AddModelError(string.Empty, "Username is already used.");
+                    resultcheck = false;
+                }
+                if(useremailcheck != null)
                 {
                     ModelState.AddModelError(string.Empty, "Email is already used.");
                     resultcheck = false;
                 }
-
-            if (resultcheck) { 
-                var result = await _userManager.CreateAsync(user);
-                if (result.Succeeded)
-                {
-                    result = await _userManager.AddLoginAsync(user, info);
+                if (resultcheck)
+                { 
+                    var result = await _userManager.CreateAsync(user);
                     if (result.Succeeded)
                     {
-                        await _signInManager.SignInAsync(user, isPersistent: false);
-                        _logger.LogInformation("User created an account using {Name} provider.", info.LoginProvider);
-                        return LocalRedirect(returnUrl);
+                        result = await _userManager.AddLoginAsync(user, info);
+                        if (result.Succeeded)
+                        {
+                            await _signInManager.SignInAsync(user, isPersistent: false);
+                            _logger.LogInformation("User created an account using {Name} provider.", info.LoginProvider);
+                            return LocalRedirect(returnUrl);
+                        }
+                    }
+                    foreach (var error in result.Errors)
+                    {
+                        ModelState.AddModelError(string.Empty, error.Description);
                     }
                 }
-                foreach (var error in result.Errors)
-                {
-                    ModelState.AddModelError(string.Empty, error.Description);
-                }
-            }
             }
 
             LoginProvider = info.LoginProvider;
