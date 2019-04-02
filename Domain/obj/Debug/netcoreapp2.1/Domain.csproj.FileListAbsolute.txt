@@ -40,4 +40,3 @@ C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdea
 C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
 C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\obj\Debug\netcoreapp2.1\Domain.dll
 C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
-C:\Users\MelioJuan\Google Drive\KDG2\IntegratieProject\GIT\Nieuwe map\CityOfIdeas\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
