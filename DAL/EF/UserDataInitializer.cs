@@ -32,15 +32,16 @@ namespace DAL.EF
             CreatRole("UserVerified", roleManager);
             CreatRole("UserOrganisation", roleManager);
         }
-
+        
         private static void CreateUser(string name, string role,UserManager<User> userManager)
         {
-            if (userManager.FindByNameAsync(name).Result == null)
+            if (userManager.FindByEmailAsync(name + "@localhost").Result == null)
             {
                 User user = new User
                 {
-                    UserName = name + "@localhost",
-                    Email = name + "@localhost"
+                    UserName = name,
+                    Email = name + "@localhost",
+                    
                 };
 
                 TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;

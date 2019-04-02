@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Domain.User
+
+@model Domain.User.User
+
+
+@inject UserManager<User> UserManager
+@{
+    ViewData["Title"] = "SendEmailConfirmation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>SendEmailConfirmation</h2>
+
+<p>
+    A confirmation email has been sent. <a asp-controller="Account" asp-action="SendEmailConfirmation" asp-route-id="@UserManager.GetUserId(User)">
+        Click here to send again
+    </a>
+</p>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
