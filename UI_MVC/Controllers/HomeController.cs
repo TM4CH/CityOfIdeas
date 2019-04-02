@@ -9,6 +9,7 @@ using BL.InterfaceManagers.IPlatformManagers;
 using BL.Managers;
 using DAL.EF;
 using Domain;
+using Domain.UserClasses;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using UI_MVC.Models;

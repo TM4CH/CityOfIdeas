@@ -1,8 +1,9 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using Domain.UserClasses;
 using Domain.VoteClasses;
 
-namespace Domain.Project
+namespace Domain.ProjectClasses.IdeationClasses
 {
     public class Idea
     {

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using Domain.PlatformClasses;
 using Domain.ProjectClasses.PhaseClasses;
+using Domain.UserClasses;
 
 namespace Domain.ProjectClasses
 {

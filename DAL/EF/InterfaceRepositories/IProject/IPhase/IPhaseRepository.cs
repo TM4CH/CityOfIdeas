@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using Domain.Project;
 using Domain.ProjectClasses.PhaseClasses;
 
 namespace DAL.IProject.IPhase

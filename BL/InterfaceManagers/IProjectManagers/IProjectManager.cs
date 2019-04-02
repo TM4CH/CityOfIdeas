@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using Domain;
 using Domain.PlatformClasses;
-using Domain.Project;
 using Domain.ProjectClasses;
+using Domain.UserClasses;
 
 namespace BL.InterfaceManagers.IProjectManagers
 {

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using Domain;
+using Domain.UserClasses;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -45,6 +46,9 @@ namespace UI_MVC.Areas.Identity.Pages.Account
             [Required]
             [EmailAddress]
             public string Email { get; set; }
+
+            [Required]
+            public string Username { get; set; }
         }
 
         public IActionResult OnGetAsync()
@@ -115,7 +119,20 @@ namespace UI_MVC.Areas.Identity.Pages.Account
 
             if (ModelState.IsValid)
             {
-                var user = new User { UserName = Input.Email, Email = Input.Email };
+                var user = new User { UserName = Input.Username, Email = Input.Email };
+
+                var useremailcheck = await _userManager.FindByEmailAsync(Input.Email);
+                var usernamecheck = await _userManager.FindByNameAsync(Input.Username);
+
+                var resultcheck = true;
+
+                if(useremailcheck != null || usernamecheck != null)
+                {
+                    ModelState.AddModelError(string.Empty, "Email is already used.");
+                    resultcheck = false;
+                }
+
+            if (resultcheck) { 
                 var result = await _userManager.CreateAsync(user);
                 if (result.Succeeded)
                 {
@@ -131,6 +148,7 @@ namespace UI_MVC.Areas.Identity.Pages.Account
                 {
                     ModelState.AddModelError(string.Empty, error.Description);
                 }
+            }
             }
 
             LoginProvider = info.LoginProvider;

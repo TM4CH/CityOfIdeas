@@ -1,5 +1,4 @@
 ﻿using DAL.IProject;
-using Domain.Project;
 using Domain.ProjectClasses;
 using System;
 using System.Collections.Generic;

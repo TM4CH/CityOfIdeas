@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using BL.InterfaceManagers.IPlatformManagers;
 using DAL;
 using DAL.EF.Repositories.PlatformRepositories;
-using Domain;
 using Domain.PlatformClasses;
+using Domain.UserClasses;
 
 namespace BL.Managers
 {

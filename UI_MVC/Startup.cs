@@ -13,6 +13,7 @@ using DAL.EF;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Domain;
+using Domain.UserClasses;
 
 namespace UI_MVC
 {
@@ -38,9 +39,30 @@ namespace UI_MVC
             services.AddDbContext<ApplicationDbContext>();
 
             services.AddIdentity<User, Role>()
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddDefaultTokenProviders();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddAuthentication()
+            .AddGoogle(googleOptions =>
+            {
+                //dit is zeer onveilig en zou normaal met de secrets.json file moeten gebeuren.
+                googleOptions.ClientId = "727289347009-oqqv9kalodjhc230rbb99ode1hbn7kon.apps.googleusercontent.com";
+                googleOptions.ClientSecret = "pXxzYuQ9iqrPLeOmEym43sw5";
+                //googleOptions.ClientId = Configuration["Authentication:Google:ClientId"];
+                //googleOptions.ClientSecret = Configuration["Authentication:Google:ClientSecret"];
+            }).AddMicrosoftAccount(microsoftOptions =>
+            {
+                microsoftOptions.ClientId = "d9deb0ea-3a3a-4304-bcdc-2523f46aa0b1";
+                microsoftOptions.ClientSecret = "apviDTYH1svfNVU9882$!_?";
+                //microsoftOptions.ClientId = Configuration["Authentication:Microsoft:ApplicationId"];
+                //microsoftOptions.ClientSecret = Configuration["Authentication:Microsoftsxxxxxxw:Password"];
+            })
+            .AddFacebook(options =>
+            {
+                options.AppId = "786246808413303";
+                options.AppSecret = "817d348b901cc4cc61d77c3513ef6dd5";
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

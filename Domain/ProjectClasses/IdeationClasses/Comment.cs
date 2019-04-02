@@ -1,6 +1,7 @@
+using Domain.UserClasses;
 using System.ComponentModel.DataAnnotations;
 
-namespace Domain.Project
+namespace Domain.ProjectClasses.IdeationClasses
 {
     public class Comment
     {

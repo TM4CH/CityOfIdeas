@@ -1,9 +1,10 @@
+using Domain.UserClasses;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Domain.Project
+namespace Domain.ProjectClasses.IdeationClasses
 {
     public class Ideation
     {

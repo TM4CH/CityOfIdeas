@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Domain
+namespace Domain.UserClasses
 {
     public class Adress
     {

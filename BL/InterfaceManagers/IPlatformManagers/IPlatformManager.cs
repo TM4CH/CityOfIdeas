@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
-using Domain;
 using Domain.PlatformClasses;
+using Domain.UserClasses;
 
 namespace BL.InterfaceManagers.IPlatformManagers
 {

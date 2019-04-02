@@ -1,9 +1,11 @@
-﻿using Domain;
-using Domain.PlatformClasses;
-using Domain.Project;
+﻿using Domain.PlatformClasses;
 using Domain.ProjectClasses;
-using Domain.ProjectClasses.AnswerClasses;
+using Domain.ProjectClasses.IdeationClasses;
 using Domain.ProjectClasses.PhaseClasses;
+using Domain.ProjectClasses.SurveyClasses;
+using Domain.ProjectClasses.SurveyClasses.AnswerClasses;
+using Domain.ProjectClasses.SurveyClasses.QuestionClasses;
+using Domain.UserClasses;
 using Domain.VoteClasses;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;

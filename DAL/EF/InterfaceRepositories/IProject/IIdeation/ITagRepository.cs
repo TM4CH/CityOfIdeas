@@ -1,5 +1,5 @@
+using Domain.ProjectClasses.IdeationClasses;
 using System.Collections.Generic;
-using Domain.Project;
 
 namespace DAL.IProject.IIdeation
 {

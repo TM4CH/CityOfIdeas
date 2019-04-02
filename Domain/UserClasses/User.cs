@@ -4,7 +4,7 @@ using Domain.PlatformClasses;
 using Domain.VoteClasses;
 using Microsoft.AspNetCore.Identity;
 
-namespace Domain
+namespace Domain.UserClasses
 {
     public class User : IdentityUser
     {

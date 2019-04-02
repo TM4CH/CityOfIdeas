@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.UserClasses;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace Domain.VoteClasses

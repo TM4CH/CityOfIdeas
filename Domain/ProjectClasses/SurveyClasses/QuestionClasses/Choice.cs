@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Domain.ProjectClasses
+namespace Domain.ProjectClasses.SurveyClasses.QuestionClasses
 {
     public class Choice
     {

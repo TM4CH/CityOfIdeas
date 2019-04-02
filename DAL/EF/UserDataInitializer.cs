@@ -1,4 +1,5 @@
 ﻿using Domain;
+using Domain.UserClasses;
 using Microsoft.AspNetCore.Identity;
 using System.Globalization;
 

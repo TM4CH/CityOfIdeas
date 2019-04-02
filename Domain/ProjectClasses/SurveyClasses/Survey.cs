@@ -1,8 +1,10 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using Domain.ProjectClasses.PhaseClasses;
+using Domain.ProjectClasses.SurveyClasses.QuestionClasses;
+using Domain.UserClasses;
 
-namespace Domain.ProjectClasses
+namespace Domain.ProjectClasses.SurveyClasses
 {
     public class Survey
     {

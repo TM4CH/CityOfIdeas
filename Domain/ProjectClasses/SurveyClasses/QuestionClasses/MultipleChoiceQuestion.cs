@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using Domain.Project;
+using Domain.ProjectClasses.SurveyClasses;
 
-namespace Domain.ProjectClasses
+namespace Domain.ProjectClasses.SurveyClasses.QuestionClasses
 {
     public class MultipleChoiceQuestion : Question
     {

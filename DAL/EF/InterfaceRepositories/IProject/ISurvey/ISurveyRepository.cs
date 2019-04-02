@@ -1,6 +1,5 @@
 using System.Collections.Generic;
-using Domain.Project;
-using Domain.ProjectClasses;
+using Domain.ProjectClasses.SurveyClasses;
 
 namespace DAL.IProject.ISurvey
 {

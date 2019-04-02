@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using Domain.Project;
+using Domain.ProjectClasses.IdeationClasses;
 
 namespace Domain.ProjectClasses.PhaseClasses
 {

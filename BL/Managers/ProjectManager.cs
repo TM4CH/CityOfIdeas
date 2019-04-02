@@ -1,9 +1,9 @@
 ﻿using BL.InterfaceManagers.IProjectManagers;
 using DAL.EF.Repositories.ProjectRepositories;
 using DAL.IProject;
-using Domain;
 using Domain.PlatformClasses;
 using Domain.ProjectClasses;
+using Domain.UserClasses;
 using System;
 using System.Collections.Generic;
 using System.Text;

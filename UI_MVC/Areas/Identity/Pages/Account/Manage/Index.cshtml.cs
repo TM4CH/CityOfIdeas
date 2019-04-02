@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
 using Domain;
+using Domain.UserClasses;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -29,6 +30,8 @@ namespace UI_MVC.Areas.Identity.Pages.Account.Manage
 
         public bool IsEmailConfirmed { get; set; }
 
+        public bool HasPassword { get; set; }
+
         [TempData]
         public string StatusMessage { get; set; }
 
@@ -43,7 +46,7 @@ namespace UI_MVC.Areas.Identity.Pages.Account.Manage
 
             [Phone]
             [Display(Name = "Phone number")]
-            public string PhoneNumber { get; set; }
+            public string PhoneNumber { get; set; }  
         }
 
         public async Task<IActionResult> OnGetAsync()
@@ -67,7 +70,7 @@ namespace UI_MVC.Areas.Identity.Pages.Account.Manage
             };
 
             IsEmailConfirmed = await _userManager.IsEmailConfirmedAsync(user);
-
+            HasPassword = await _userManager.HasPasswordAsync(user);
             return Page();
         }
 
