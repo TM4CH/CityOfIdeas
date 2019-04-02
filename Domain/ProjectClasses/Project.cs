@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using Domain.PlatformClasses;
+using Domain.ProjectClasses.PhaseClasses;
 
-namespace Domain.Project
+namespace Domain.ProjectClasses
 {
     public class Project
     {
@@ -18,7 +20,7 @@ namespace Domain.Project
         public DateTime StartDate { get; set; }
         [Required]
         public DateTime EndDate { get; set; }
-        public virtual ICollection<Phase.Phase> Phases { get; set; }
+        public virtual ICollection<Phase> Phases { get; set; }
         [Required]
         public virtual User User { get; set; }
         [Required] public virtual Platform Platform { get; set; }

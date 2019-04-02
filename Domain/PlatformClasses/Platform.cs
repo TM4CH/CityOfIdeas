@@ -1,20 +1,16 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Domain
+namespace Domain.PlatformClasses
 {
     public class Platform
     {
-        [Key]
-        public string Id { get; set; }
-
-        public string Name { get; set; }
-        public virtual ICollection<User> Admins { get; set; }
-
-/*      public Platform(string name, ICollection<User> admins)
-        {
-            Name = name;
-            Admins = admins;
-        }*/
+        [Key] public string Id { get; set; }
+        [Required] public bool IsDistrict { get; set; }
+        [Required] public string Name { get; set; }
+        public string Url { get; set; }
+        [Required] public string Logo { get; set; }
+        [Required] public virtual PlatformSettings Settings { get; set; }
+        public virtual ICollection<User> Users { get; set; }
     }
 }

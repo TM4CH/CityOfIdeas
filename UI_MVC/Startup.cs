@@ -73,6 +73,8 @@ namespace UI_MVC
             dbContext.Database.EnsureCreated();
 
             UserDataInitializer.SeedData(userManager, roleManager);
+            GlobalSettings.InputBoxSize = 255;
+            GlobalSettings.TextAreaSize = 1024;
         }
     }
 }

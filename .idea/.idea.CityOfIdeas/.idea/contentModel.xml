@@ -81,8 +81,8 @@
           <e p="UserDataInitializer.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
-          <e p="20190401145832_CityOfIdeas.Designer.cs" t="Include" />
-          <e p="20190401145832_CityOfIdeas.cs" t="Include" />
+          <e p="20190402131905_CityOfIdeas.Designer.cs" t="Include" />
+          <e p="20190402131905_CityOfIdeas.cs" t="Include" />
           <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
@@ -97,8 +97,11 @@
       <e p="Domain" t="IncludeRecursive">
         <e p="Domain.csproj" t="IncludeRecursive" />
         <e p="Domain.csproj.DotSettings" t="Include" />
+        <e p="GlobalSettings.cs" t="Include" />
         <e p="PlatformClasses" t="Include">
           <e p="Platform.cs" t="Include" />
+          <e p="PlatformSettings.cs" t="Include" />
+          <e p="Theme.cs" t="Include" />
         </e>
         <e p="ProjectClasses" t="Include">
           <e p="IdeationClasses" t="Include">
@@ -108,20 +111,20 @@
             <e p="PropertyEnabled.cs" t="Include" />
             <e p="Tag.cs" t="Include" />
           </e>
-          <e p="Phase" t="Include">
+          <e p="PhaseClasses" t="Include">
             <e p="Phase.cs" t="Include" />
             <e p="PhaseIdeation.cs" t="Include" />
             <e p="PhaseSurvey.cs" t="Include" />
           </e>
           <e p="Project.cs" t="Include" />
-          <e p="Survey" t="Include">
-            <e p="Answer" t="Include">
+          <e p="SurveyClasses" t="Include">
+            <e p="AnswerClasses" t="Include">
               <e p="Answer.cs" t="Include" />
               <e p="ChoiceAnswer.cs" t="Include" />
               <e p="MultipleChoiceAnswer.cs" t="Include" />
               <e p="QuestionAnswer.cs" t="Include" />
             </e>
-            <e p="Question" t="Include">
+            <e p="QuestionClasses" t="Include">
               <e p="Choice.cs" t="Include" />
               <e p="MultipleChoiceQuestion.cs" t="Include" />
               <e p="Question.cs" t="Include" />

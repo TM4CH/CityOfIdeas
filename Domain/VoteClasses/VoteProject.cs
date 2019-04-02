@@ -1,10 +1,10 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Domain
+namespace Domain.VoteClasses
 {
     public class VoteProject : Vote
     {
         [Required]
-        public virtual Project.Project Project { get; set; }
+        public virtual ProjectClasses.Project Project { get; set; }
     }
 }

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Domain.Project.Answer
+namespace Domain.ProjectClasses.AnswerClasses
 {
     public class MultipleChoiceAnswer : Answer
     {

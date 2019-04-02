@@ -1,8 +1,10 @@
+using System;
 using System.Collections.Generic;
 using BL.InterfaceManagers.IPlatformManagers;
 using DAL;
 using DAL.EF.Repositories.PlatformRepositories;
 using Domain;
+using Domain.PlatformClasses;
 
 namespace BL.Managers
 {
@@ -22,9 +24,9 @@ namespace BL.Managers
          */
 
         //Add Methods
-        public void AddPlatform(Platform platform)
+        public void AddPlatform(String name, ICollection<User> admins)
         { 
-            _repo.CreatePlatform(platform);
+            _repo.CreatePlatform(new Platform(){Name = name, Users = admins});
         }
 
         //Get Methods

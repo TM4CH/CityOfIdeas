@@ -39,18 +39,18 @@ namespace UI_MVC.Controllers
             //IS VOOR BACKEND - MOET VERWIJDERD WORDEN BIJ FRONT-END
             
                 //ADD
-                    //Platform tempPlatform = new Platform(){ Name = "Deurne", Admins = new Collection<User>()
-                    //{
-                        //await _userManager.FindByEmailAsync("admin@localhost")
-                    //}};
-                    //_platformManager.AddPlatform(tempPlatform);
+                    _platformManager.AddPlatform(
+                        "Hoboken",
+                        new Collection<User>()
+                        {
+                            await _userManager.FindByEmailAsync("admin@localhost")
+                        });
                 //GET
-                    //Console.WriteLine(_platformManager.GetPlatformByName("Hoboken"));
+                    /*Console.WriteLine(_platformManager.GetPlatformByName("Hoboken"));
                 //SET
-                    //tempPlatform.Name = "Antwerpen";
-                    //_platformManager.SetPlatform(tempPlatform);
+                    _platformManager.SetPlatform(ID, "Wilrijk");
                 //REMOVE
-                
+                    _platformManager.RemovePlatform(_platformManager.GetPlatformByName("Wilrijk").Id);*/
             
             //TOT HIER
             return View();

@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations;
+using Domain.Project;
 
-namespace Domain.Project.Answer
+namespace Domain.ProjectClasses.AnswerClasses
 {
     public class Answer
     {

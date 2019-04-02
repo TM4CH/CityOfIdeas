@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Domain.VoteClasses;
 using Microsoft.AspNetCore.Identity;
 
 namespace Domain

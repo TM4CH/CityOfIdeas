@@ -14,9 +14,9 @@ namespace Domain.Project
         public string Description { get; set; }
         public string Link { get; set; }
         [Required]
-        public Boolean AdminOnly { get; set; }
+        public bool AdminOnly { get; set; }
         public virtual ICollection<Idea> Ideas { get; set; }
-        [Required] public virtual Phase.Phase Phase { get; set; }
+        [Required] public virtual ProjectClasses.PhaseClasses.Phase Phase { get; set; }
         public virtual User User { get; set; }
         
         private ICollection<PropertyEnabled> _propertyEnabled;

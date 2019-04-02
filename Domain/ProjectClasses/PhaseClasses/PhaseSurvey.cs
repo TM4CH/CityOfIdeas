@@ -1,6 +1,7 @@
 using System.Collections.Generic;
+using Domain.Project;
 
-namespace Domain.Project.Phase
+namespace Domain.ProjectClasses.PhaseClasses
 {
     public class PhaseSurvey
     {

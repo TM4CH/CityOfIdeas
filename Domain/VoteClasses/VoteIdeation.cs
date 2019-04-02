@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using Domain.Project;
 
-namespace Domain
+namespace Domain.VoteClasses
 {
     public class VoteIdeation : Vote
     {

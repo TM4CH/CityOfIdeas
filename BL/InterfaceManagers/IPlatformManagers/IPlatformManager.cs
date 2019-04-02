@@ -1,5 +1,7 @@
+using System;
 using System.Collections.Generic;
 using Domain;
+using Domain.PlatformClasses;
 
 namespace BL.InterfaceManagers.IPlatformManagers
 {
@@ -10,7 +12,7 @@ namespace BL.InterfaceManagers.IPlatformManagers
          */
         
         //Create Methods
-        void AddPlatform(Platform platform);
+        void AddPlatform(String name, ICollection<User> admins);
         
         //Read Methods
         IEnumerable<Platform> GetAllPlatforms();
@@ -18,7 +20,7 @@ namespace BL.InterfaceManagers.IPlatformManagers
         Platform GetPlatformByName(string name);
         
         //Update Methods
-        void SetPlatform(Platform ticket);
+        void SetPlatform(Platform platform);
         
         //Delete Methods
         void RemovePlatform(string id);
