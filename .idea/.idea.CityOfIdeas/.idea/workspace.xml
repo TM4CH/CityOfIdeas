@@ -2,83 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c50d751e-f2d6-464c-8bd0-b68ea65cd578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DAL/Migrations/20190402131905_CityOfIdeas.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Migrations/20190402131905_CityOfIdeas.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domain/GlobalSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domain/PlatformClasses/PlatformSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domain/PlatformClasses/Theme.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CityOfIdeas/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CityOfIdeas/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CityOfIdeas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CityOfIdeas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BL/InterfaceManagers/IPlatformManagers/IPlatformManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BL/InterfaceManagers/IPlatformManagers/IPlatformManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BL/Managers/PlatformManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BL/Managers/PlatformManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/BL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/BL.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/BL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/BL.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/DAL.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BL/bin/Debug/netcoreapp2.1/Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BL/obj/Debug/netcoreapp2.1/BL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BL/obj/Debug/netcoreapp2.1/BL.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BL/obj/Debug/netcoreapp2.1/BL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BL/obj/Debug/netcoreapp2.1/BL.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BL/obj/Debug/netcoreapp2.1/BL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BL/obj/Debug/netcoreapp2.1/BL.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/ApplicationDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IPlatformRepository/IPlatformRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IPlatformRepository/IPlatformRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/IPhase/IPhaseIdeationRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/IPhase/IPhaseIdeationRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/IPhase/IPhaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/IPhase/IPhaseRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/IPhase/IPhaseSurveyRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/IPhase/IPhaseSurveyRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/IProjectRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/IProjectRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IAnswer/IAnswerRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IAnswer/IAnswerRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IAnswer/IChoiceAnswerRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IAnswer/IChoiceAnswerRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IAnswer/IMultipleChoiceAnswerRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IAnswer/IMultipleChoiceAnswerRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IAnswer/IQuestionAnswerRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IAnswer/IQuestionAnswerRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IQuestion/IChoiceRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IQuestion/IChoiceRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IQuestion/IMultipleChoiceQuestionRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IQuestion/IMultipleChoiceQuestionRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IQuestion/IQuestionRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/IQuestion/IQuestionRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/ISurveyRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IProject/ISurvey/ISurveyRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IVote/IVoteIdeationRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IVote/IVoteIdeationRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IVote/IVoteProjectRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IVote/IVoteProjectRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IVote/IVoteRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IVote/IVoteRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EF/Repositories/PlatformRepositories/PlatformRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/Repositories/PlatformRepositories/PlatformRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp2.1/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp2.1/DAL.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp2.1/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp2.1/DAL.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp2.1/Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netcoreapp2.1/Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.1/DAL.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.1/DAL.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.1/DAL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.1/DAL.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.1/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.1/DAL.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.1/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.1/DAL.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/Domain.csproj.DotSettings" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Domain.csproj.DotSettings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/PlatformClasses/Platform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/PlatformClasses/Platform.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/IdeationClasses/Idea.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/IdeationClasses/Idea.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/IdeationClasses/Ideation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/IdeationClasses/Ideation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Phase/Phase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/PhaseClasses/Phase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Phase/PhaseIdeation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/PhaseClasses/PhaseIdeation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Phase/PhaseSurvey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/PhaseClasses/PhaseSurvey.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Project.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/Project.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Survey/Answer/Answer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/SurveyClasses/AnswerClasses/Answer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Survey/Answer/ChoiceAnswer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/SurveyClasses/AnswerClasses/ChoiceAnswer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Survey/Answer/MultipleChoiceAnswer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/SurveyClasses/AnswerClasses/MultipleChoiceAnswer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Survey/Answer/QuestionAnswer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/SurveyClasses/AnswerClasses/QuestionAnswer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Survey/Question/Choice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/SurveyClasses/QuestionClasses/Choice.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Survey/Question/MultipleChoiceQuestion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/SurveyClasses/QuestionClasses/MultipleChoiceQuestion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Survey/Question/Question.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/SurveyClasses/QuestionClasses/Question.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/ProjectClasses/Survey/Survey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ProjectClasses/SurveyClasses/Survey.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/UserClasses/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/UserClasses/User.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/VoteClasses/Vote.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/VoteClasses/Vote.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/VoteClasses/VoteIdeation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/VoteClasses/VoteIdeation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/VoteClasses/VoteProject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/VoteClasses/VoteProject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/netcoreapp2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/netcoreapp2.1/Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/netcoreapp2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/netcoreapp2.1/Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/netcoreapp2.1/Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/netcoreapp2.1/Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/netcoreapp2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/netcoreapp2.1/Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/netcoreapp2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/netcoreapp2.1/Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI_MVC/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI_MVC/Views/Home/Project.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/Views/Home/Project.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/BL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/BL.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/BL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/BL.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/DAL.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/bin/Debug/netcoreapp2.1/UI_MVC.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Index.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Index.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPassword.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPassword.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Project.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Project.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UI_MVC/obj/Debug/netcoreapp2.1/UI_MVC.pdb" afterDir="false" />
@@ -90,7 +64,79 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Domain/PlatformClasses/Platform.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <marker date="1554211079123" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554211079123" expanded="true" signature="112:534" ph="{...}" />
+                <marker date="1554211079123" expanded="true" signature="140:532" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Domain/GlobalSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <marker date="1554210970400" expanded="true" signature="16:442" ph="{...}" />
+                <marker date="1554210970400" expanded="true" signature="50:440" ph="{...}" />
+                <marker date="1554210970400" expanded="true" signature="139:246" ph="{...}" />
+                <marker date="1554210970400" expanded="true" signature="329:434" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI_MVC/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+              <folding>
+                <marker date="1554210970404" expanded="false" signature="6:465" ph="..." />
+                <marker date="1554210970404" expanded="true" signature="483:2649" ph="{...}" />
+                <marker date="1554210970404" expanded="true" signature="510:2647" ph="{...}" />
+                <marker date="1554210970404" expanded="true" signature="569:632" ph="{...}" />
+                <marker date="1554210970404" expanded="true" signature="855:1482" ph="{...}" />
+                <marker date="1554210970404" expanded="true" signature="928:1205" ph="{...}" />
+                <marker date="1554210970404" expanded="true" signature="1764:2641" ph="{...}" />
+                <marker date="1554210970404" expanded="true" signature="1811:1932" ph="{...}" />
+                <marker date="1554210970404" expanded="true" signature="1949:2064" ph="{...}" />
+                <marker date="1554210970404" expanded="true" signature="2245:2416" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UI_MVC/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <marker date="1554211794368" expanded="false" signature="6:353" ph="..." />
+                <marker date="1554211794368" expanded="true" signature="383:1365" ph="{...}" />
+                <marker date="1554211794368" expanded="true" signature="430:1363" ph="{...}" />
+                <marker date="1554211794368" expanded="true" signature="497:530" ph="{...}" />
+                <marker date="1554211794368" expanded="true" signature="568:615" ph="{...}" />
+                <marker date="1554211794368" expanded="true" signature="653:773" ph="{...}" />
+                <marker date="1554211794368" expanded="true" signature="813:917" ph="{...}" />
+                <marker date="1554211794368" expanded="true" signature="957:1004" ph="{...}" />
+                <marker date="1554211794368" expanded="true" signature="1044:1091" ph="{...}" />
+                <marker date="1554211794368" expanded="true" signature="1223:1356" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -231,7 +277,6 @@
         <option value="$PROJECT_DIR$/DAL/EF/InterfaceRepositories/IPlatformRepository/IPlatformRepository.cs" />
         <option value="$PROJECT_DIR$/DAL/EF/Repositories/PlatformRepositories/PlatformRepository.cs" />
         <option value="$PROJECT_DIR$/BL/InterfaceManagers/IPlatformManagers/IPlatformManager.cs" />
-        <option value="$PROJECT_DIR$/UI_MVC/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/Domain/ProjectClasses/IdeationClasses/Ideation.cs" />
         <option value="$PROJECT_DIR$/Domain/ProjectClasses/PhaseClasses/Phase.cs" />
         <option value="$PROJECT_DIR$/Domain/ProjectClasses/PhaseClasses/PhaseIdeation.cs" />
@@ -256,6 +301,7 @@
         <option value="$PROJECT_DIR$/Domain/PlatformClasses/Platform.cs" />
         <option value="$PROJECT_DIR$/BL/Managers/PlatformManager.cs" />
         <option value="$PROJECT_DIR$/Domain/PlatformClasses/PlatformSettings.cs" />
+        <option value="$PROJECT_DIR$/UI_MVC/Controllers/HomeController.cs" />
       </list>
     </option>
   </component>
@@ -332,6 +378,12 @@
               <item name="CityOfIdeas" type="24d0babc:SolutionExplorerModelNode" />
               <item name="UI_MVC" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CityOfIdeas" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="UI_MVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -387,12 +439,20 @@
       <workItem from="1554061338211" duration="1610000" />
       <workItem from="1554117013840" duration="7528000" />
       <workItem from="1554129764852" duration="9722000" />
-      <workItem from="1554190374685" duration="11665000" />
+      <workItem from="1554190374685" duration="11999000" />
     </task>
+    <task id="LOCAL-00001" summary="Controller -&gt; BL, Platform Settings &amp; Global Settings">
+      <created>1554211460730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554211460730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53249000" />
+    <option name="totallyTimeSpent" value="53583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,15 +465,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26231322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26231322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,7 +485,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32937366" />
       <window_info anchor="bottom" id="REST Client" order="12" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.33045357" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.33045357" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -658,28 +719,6 @@
             <marker date="1554209110410" expanded="true" signature="141:670" ph="{...}" />
             <marker date="1554209110410" expanded="true" signature="181:668" ph="{...}" />
             <marker date="1554209110410" expanded="true" signature="196:239" ph="/* CRUD Platform ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI_MVC/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
-          <folding>
-            <marker date="1554197513122" expanded="false" signature="6:353" ph="..." />
-            <marker date="1554197513122" expanded="true" signature="383:2541" ph="{...}" />
-            <marker date="1554197513122" expanded="true" signature="430:2539" ph="{...}" />
-            <marker date="1554197513122" expanded="true" signature="727:959" ph="{...}" />
-            <marker date="1554197513122" expanded="true" signature="1008:1791" ph="{...}" />
-            <marker date="1554197513122" expanded="true" signature="1031:1122" ph="/* IS VOOR BACKEND - MOET VERWIJDERD WORDEN BIJ FRONT-END ... */" />
-            <marker date="1554197513122" expanded="true" signature="1279:1389" ph="{...}" />
-            <marker date="1554197513122" expanded="true" signature="1434:1718" ph="/* Console.WriteLine(_platformManager.GetPlatformByName(&quot;Hoboken&quot;)); ... */" />
-            <marker date="1554197513122" expanded="true" signature="1829:1949" ph="{...}" />
-            <marker date="1554197513122" expanded="true" signature="1989:2093" ph="{...}" />
-            <marker date="1554197513122" expanded="true" signature="2133:2180" ph="{...}" />
-            <marker date="1554197513122" expanded="true" signature="2220:2267" ph="{...}" />
-            <marker date="1554197513122" expanded="true" signature="2399:2532" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -958,38 +997,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Domain/GlobalSettings.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <marker date="1554210970400" expanded="true" signature="16:442" ph="{...}" />
-            <marker date="1554210970400" expanded="true" signature="50:440" ph="{...}" />
-            <marker date="1554210970400" expanded="true" signature="139:246" ph="{...}" />
-            <marker date="1554210970400" expanded="true" signature="329:434" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI_MVC/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
-          <folding>
-            <marker date="1554210970404" expanded="false" signature="6:465" ph="..." />
-            <marker date="1554210970404" expanded="true" signature="483:2649" ph="{...}" />
-            <marker date="1554210970404" expanded="true" signature="510:2647" ph="{...}" />
-            <marker date="1554210970404" expanded="true" signature="569:632" ph="{...}" />
-            <marker date="1554210970404" expanded="true" signature="855:1482" ph="{...}" />
-            <marker date="1554210970404" expanded="true" signature="928:1205" ph="{...}" />
-            <marker date="1554210970404" expanded="true" signature="1764:2641" ph="{...}" />
-            <marker date="1554210970404" expanded="true" signature="1811:1932" ph="{...}" />
-            <marker date="1554210970404" expanded="true" signature="1949:2064" ph="{...}" />
-            <marker date="1554210970404" expanded="true" signature="2245:2416" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Domain/PlatformClasses/Theme.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -1023,18 +1030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Domain/PlatformClasses/Platform.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <marker date="1554211079123" expanded="false" signature="6:78" ph="..." />
-            <marker date="1554211079123" expanded="true" signature="112:534" ph="{...}" />
-            <marker date="1554211079123" expanded="true" signature="140:532" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BL/Managers/PlatformManager.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1063,6 +1058,69 @@
           <folding>
             <marker date="1554211122119" expanded="true" signature="78:264" ph="{...}" />
             <marker date="1554211122119" expanded="true" signature="114:262" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/GlobalSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1554210970400" expanded="true" signature="16:442" ph="{...}" />
+            <marker date="1554210970400" expanded="true" signature="50:440" ph="{...}" />
+            <marker date="1554210970400" expanded="true" signature="139:246" ph="{...}" />
+            <marker date="1554210970400" expanded="true" signature="329:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI_MVC/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+          <folding>
+            <marker date="1554210970404" expanded="false" signature="6:465" ph="..." />
+            <marker date="1554210970404" expanded="true" signature="483:2649" ph="{...}" />
+            <marker date="1554210970404" expanded="true" signature="510:2647" ph="{...}" />
+            <marker date="1554210970404" expanded="true" signature="569:632" ph="{...}" />
+            <marker date="1554210970404" expanded="true" signature="855:1482" ph="{...}" />
+            <marker date="1554210970404" expanded="true" signature="928:1205" ph="{...}" />
+            <marker date="1554210970404" expanded="true" signature="1764:2641" ph="{...}" />
+            <marker date="1554210970404" expanded="true" signature="1811:1932" ph="{...}" />
+            <marker date="1554210970404" expanded="true" signature="1949:2064" ph="{...}" />
+            <marker date="1554210970404" expanded="true" signature="2245:2416" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/PlatformClasses/Platform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <marker date="1554211079123" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554211079123" expanded="true" signature="112:534" ph="{...}" />
+            <marker date="1554211079123" expanded="true" signature="140:532" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI_MVC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <marker date="1554211794368" expanded="false" signature="6:353" ph="..." />
+            <marker date="1554211794368" expanded="true" signature="383:1365" ph="{...}" />
+            <marker date="1554211794368" expanded="true" signature="430:1363" ph="{...}" />
+            <marker date="1554211794368" expanded="true" signature="497:530" ph="{...}" />
+            <marker date="1554211794368" expanded="true" signature="568:615" ph="{...}" />
+            <marker date="1554211794368" expanded="true" signature="653:773" ph="{...}" />
+            <marker date="1554211794368" expanded="true" signature="813:917" ph="{...}" />
+            <marker date="1554211794368" expanded="true" signature="957:1004" ph="{...}" />
+            <marker date="1554211794368" expanded="true" signature="1044:1091" ph="{...}" />
+            <marker date="1554211794368" expanded="true" signature="1223:1356" ph="{...}" />
           </folding>
         </state>
       </provider>
